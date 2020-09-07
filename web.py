@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return "Drink Water"
+    return "Drink More Water"
